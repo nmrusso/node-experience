@@ -2169,6 +2169,7 @@ packages:
 
   formidable@2.1.2:
     resolution: {integrity: sha512-CM3GuJ57US06mlpQ47YcunuUZ9jpm8Vx+P2CGt2j7HpgkKZO/DJYQ0Bobim8G6PFQmK5lOqOOdUXboU+h73A4g==}
+    deprecated: 'ACTION REQUIRED: SWITCH TO v3 - v1 and v2 are VULNERABLE! v1 is DEPRECATED FOR OVER 2 YEARS! Use formidable@latest or try formidable-mini for fresh projects'
 
   forwarded@0.2.0:
     resolution: {integrity: sha512-buRG0fpBtRHSTCOASe6hD258tEubFoRLb4ZNA6NxMVHNw2gOcwHo9wyablzMzOA5z9xA9L1KNjk/Nt6MT9aYow==}
@@ -3354,6 +3355,7 @@ packages:
   multer@2.0.0-rc.4:
     resolution: {integrity: sha512-YkjV/rOzngEBxtZV8s6BcBcB/z2v/dfDcIpWagmMsKBq0QnQCu/NpCUDd2ElExfnxRXMVXKrFh94/UKe4NdxBQ==}
     engines: {node: ^12.20.0 || ^14.13.1 || >=16.0.0}
+    deprecated: You should upgrade to 3.0.0-alpha.1 version
 
   murmur-32@1.0.0:
     resolution: {integrity: sha512-l6QKUGWXzZWHash7lmZzycpIifOrnc3PeMaoFrMv90c+xqOyOSzJU0q2T/1d15MzAdEWTpCh1paC855APqt1Gw==}
